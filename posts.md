@@ -47,5 +47,4 @@ function indexMove(variable) {
     
     console.log(offset.top);
 }
-
 </script>
