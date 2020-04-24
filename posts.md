@@ -43,7 +43,7 @@ function indexMove(variable) {
     console.log('test good');
     console.log('variable : '+variable);
     var offset = $('#'+variable).offset();
-    $('html,body').animate({scrollTo : offset.top},400);
+    $('html,body').animate({scrollTop : offset.top},400);
     
     console.log(offset.top);
 }
