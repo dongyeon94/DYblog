@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "cate"
-permalink: /cate/
+title: "ready"
+permalink: /ready/
 main_nav: true
 ---
 
