@@ -4,7 +4,10 @@ title: "cate"
 permalink: /cate/
 main_nav: true
 ---
-
+<div>
+{% site %}
+</div>
+<!--  
 {% for category in site.categories %}
   {% capture cat %}{{ category | first }}{% endcapture %}
   <h2 id="{{cat}}">{{ cat | capitalize }}</h2>
@@ -27,3 +30,4 @@ main_nav: true
   {% if forloop.last == false %}<hr>{% endif %}
 {% endfor %}
 <br>
+-->
