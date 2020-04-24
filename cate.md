@@ -7,20 +7,16 @@ main_nav: true
 
 
 <div>
-<h2> testing</h2>
-{% site %}
+<h2>cate gory test</h2>
 </div>
-<br><br><br><br>
 {% for category in site.categories %}
   {% capture cat %}{{ category | first }}{% endcapture %}
   <h2 id="{{cat}}">{{ cat | capitalize }}</h2>
-  
   {% for desc in site.descriptions %}
     {% if desc.cat == cat %}
       <p class="desc"><em>{{ desc.desc }}</em></p>
     {% endif %}
   {% endfor %}
-  
   <ul class="posts-list">
   {% for post in site.categories[cat] %}
     <li>
