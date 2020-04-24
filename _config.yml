@@ -4,6 +4,7 @@ plugins:
   - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
   - jekyll-paginate-v2
+  - jekyll-feed
 
 exclude:
   - "/vendor/"
@@ -33,7 +34,7 @@ highlightjs_theme: "monokai-sublime"
 pagination:
   enabled: true
   per_page: 5
-  permalink: "/page/:num/"
+  permalink: "/posts/:num/"
   sort_reverse: true
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)

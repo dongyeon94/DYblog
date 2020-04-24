@@ -21,6 +21,7 @@ pagination:
 
   {% for post in paginator.posts %}
   <li>
+		<div> test {{ post}}</div>
     <h2>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </h2>
