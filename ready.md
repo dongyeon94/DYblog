@@ -7,7 +7,7 @@ main_nav: true
 
 
 <div>
-<h2>cate gory test</h2>
+<h2>페이지 준비중입니다.</h2>
 </div>
 
 <br>

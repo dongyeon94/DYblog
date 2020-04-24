@@ -5,8 +5,9 @@ permalink: /posts/
 main_nav: true
 ---
 <div class="category" style=" height: 200px;">
-    <div class="category-nav" style="font-size: 30px;border-bottom: 1px solid black;">
+    <div class="category-nav" style="font-size: 30px;border-bottom: 1px solid black; border-top: 1px solid black;">
         <button class="back-joon" onclick="indexMove('backjoon')"> Backjoon</button>
+        <button class="programmers" onclick="indexMove('programmers')"> Backjoon</button>
     </div>
 </div >
 
