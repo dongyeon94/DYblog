@@ -10,7 +10,7 @@ main_nav: true
     </div>
 </div >
 
-<div style="height: 1000px;"></div>
+
 {% for category in site.categories %}
   {% capture cat %}{{ category | first }}{% endcapture %}
   <h2 id="{{cat}}">{{ cat | capitalize }}</h2>
