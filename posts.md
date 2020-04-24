@@ -4,9 +4,11 @@ title: "Posts"
 permalink: /posts/
 main_nav: true
 ---
-<div class="category">
-  <a class="back-joon" onclick="indexMove('backjoon')"> Backjoon</a>
-</div>
+<div class="category" style="border-bottom: 1px solid black; height: 200px;">
+    <div class="category-nav" style="font-size: 30px;">
+        <button class="back-joon" onclick="indexMove('backjoon')"> Backjoon</button>
+    </div>
+</div >
 
 
 {% for category in site.categories %}
