@@ -4,8 +4,8 @@ title: "Posts"
 permalink: /posts/
 main_nav: true
 ---
-<div class="category" style="border-bottom: 1px solid black; height: 200px;">
-    <div class="category-nav" style="font-size: 30px;">
+<div class="category" style=" height: 200px;">
+    <div class="category-nav" style="font-size: 30px;border-bottom: 1px solid black;">
         <button class="back-joon" onclick="indexMove('backjoon')"> Backjoon</button>
     </div>
 </div >
@@ -38,6 +38,8 @@ main_nav: true
 <script type="text/javascript">
 function indexMove(variable) {
     var id =  variable;
+    console.log('test good');
+    console.log('variable : '+variable);
     var offset = $('#'+variable).offset();
     $('html,body').animate({scrollTo : offset.top},400);
 }
