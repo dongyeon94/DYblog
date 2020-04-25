@@ -17,7 +17,7 @@ pagination:
 <div class="wrapper">
 
 <ul class="post-list">
-	{% for post in site.posts[:10] %}
+	{% for post in site.posts|slice:":10" %}
 	<div class="post-list">
 	<h2><a href="/DYblog/{{ post.url }}">{{ post.title }}</a></h2>
 	<p>{{ post.date | date: "%b %d, %Y" }} by {{ post.author }}</p>
