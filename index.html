@@ -15,17 +15,18 @@ pagination:
 </div>
 
 <div class="wrapper">
-
-<ul class="post-list">
-	{% for post in site.posts limit:10 %}
-	<div class="post-list">
-	<h2><a href="/DYblog/{{ post.url }}">{{ post.title }}</a></h2>
-	<p>{{ post.date | date: "%b %d, %Y" }} by {{ post.author }}</p>
-	</div>
-	{% endfor %}
-
-</ul>
-
+	<section>
+		<div style="border-top: 1px solid #dddddd; border-bottom: 1px solid #dddddd;">
+			<ul class="post-list">
+				{% for post in site.posts limit:5 %}
+				<div class="post-list">
+					<h2><a href="/DYblog/{{ post.url }}">{{ post.title }}</a></h2>
+					<p>{{ post.date | date: "%b %d, %Y" }} by {{ post.author }}</p>
+				</div>
+				{% endfor %}
+			</ul>
+		</div>
+	</section>
 
 <!--<ul class="post-list">-->
 
