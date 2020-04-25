@@ -54,11 +54,24 @@ Python3.7버전의 파이썬입니다. 자신의 OS에 맞게 다운 받으시�
 추후 개발 환경 설정할때 제가 환경 설정한 대로 포스팅 할거라서 Pycharm설치를 권장드립니다.
 
 
+4.영웅문 프로그램
+
+<button onclick="location.href='https://www1.kiwoom.com/nkw.templateFrameSet.do?m=m1408000000' ">Kiwoom api</button>
+왼쪽 사이드바 하단에 영웅문4 HTS라는 이름이 보입니다. 이 프로그램을 다운받아야 실제로 테스트가 정확한지 확인할 수 있습니다. 
+
 ---
 
 ## 모듈 설치
 
 1.키움 api 설치 
+
+키움 홈페이지에서 open api를 설치해 주세요 
+<button onclick="location.href='https://www1.kiwoom.com/nkw.templateFrameSet.do?m=m1408000000' ">Kiwoom api</button> 
+open api + 는 국내 주식  open api w는 해외 주식입니다.
+해외 주식은 거래소 거래를 해야 요청을 넣을 수 있으니 open api + 에세 충분히 학습하고 결제를 진행하는걸 추천드립니다.
+
+
+
 
 ---
 
