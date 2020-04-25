@@ -131,7 +131,7 @@ Pycharm을 켜면 file -> setting에 interpreter를 설정할수 있는 부분�
 
 
 ---
-<div style="height: 50px;">&nbsp</div>
+<div style="height: 50px;"></div>
 <div style="float: right;">
   <button onclick="location.href='https://www.kiwoom.com/' ">키움증권</button>
   <button onclick="location.href='https://www.jetbrains.com/ko-kr/pycharm/' ">Pycharm</button>
