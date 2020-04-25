@@ -8,6 +8,7 @@ main_nav: true
     <div class="category-nav" style="font-size: 30px;border-bottom: 1px solid black; border-top: 1px solid black;">
         <button class="back-joon" onclick="indexMove('backjoon')"> Backjoon</button>
         <button class="programmers" onclick="indexMove('programmers')"> Programmers</button>
+        <button class="Outsourcing" onclick="indexMove('Outsourcing')"> Outsourcing</button>
     </div>
 </div >
 
