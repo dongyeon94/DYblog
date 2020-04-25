@@ -78,7 +78,9 @@ C:\Program Files 안에 Anaconda라는 새로운 폴더를 만들어  해당 경
 
 다른 언어는 모르겠는데 Python으로 키움 API르 사용하기 위해선 32bit Python이 필요합니다. 때문에 64bit로 받은 Python을 32bit으로 설정해줘야합니다.
 Anaconda를 정상적으로 설치하셨으면 
+
 ![anaconda](https://user-images.githubusercontent.com/37605781/80280115-0a131900-873d-11ea-99cf-6aa36202c581.PNG)
+
 가 설치되어 있습니다. 해당 프로그램을 실행하면 아래와 같은 화면이 나타나게 됩니다.
 ![navi](https://user-images.githubusercontent.com/37605781/80280216-b94ff000-873d-11ea-89b6-f01d247b4d74.jpg)
 
