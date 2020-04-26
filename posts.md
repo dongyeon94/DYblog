@@ -5,15 +5,19 @@ permalink: /posts/
 main_nav: true
 ---
 
-<div>Tags</div>
+<h1>Tags</h1>
 <div class="category" style=" height: 200px;">
-    <div style="height: 10px;"></div>    
+        
     <div class="category-nav" style="font-size: 30px;border-bottom: 1px solid #dddddd; border-top: 1px solid #dddddd;">
+        <div style="height: 10px;"></div>
+        
         <button class="back-joon" onclick="indexMove('backjoon')"> Backjoon</button>
         <button class="programmers" onclick="indexMove('programmers')"> Programmers</button>
         <button class="Outsourcing" onclick="indexMove('Outsourcing')"> Outsourcing</button>
+        
+        <div style="height: 10px;"></div>
     </div>
-    <div style="height: 10px;"></div>
+    
 </div >
 
 
