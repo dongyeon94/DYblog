@@ -5,7 +5,7 @@ permalink: /posts/
 main_nav: true
 ---
 
-<h1>Tags</h1>
+<h2>Tags</h2>
 <div class="category" style=" height: 200px;">
         
     <div class="category-nav" style="font-size: 30px;border-bottom: 1px solid #dddddd; border-top: 1px solid #dddddd;">
