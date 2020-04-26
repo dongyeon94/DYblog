@@ -20,8 +20,8 @@ pagination:
 			<ul class="post-list">
 				{% for post in site.posts limit:5 %}
 				<div class="post-list">
-					<h2><a href="/DYblog/{{ post.url }}">{{ post.title }}</a> <span style="float: right;">{{ post.categories}}</span> </h2>
-					<p>{{ post.date | date: "%b %d, %Y" }} by {{ post.author }}</p>
+					<h2><a href="/DYblog/{{ post.url }}">{{ post.title }}</a> </h2>
+					<p>{{ post.date | date: "%b %d, %Y" }} by {{ post.author }}  <span style="float: right;">{{ post.categories}}</span> </p>
 				</div>
 				{% endfor %}
 			</ul>
