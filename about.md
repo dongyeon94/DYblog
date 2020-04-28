@@ -18,4 +18,3 @@ main_nav: true
   - Spring, Andriod
   - HTML5, CSS3, Javascript, Jquery
 
-
