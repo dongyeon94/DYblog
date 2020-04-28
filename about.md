@@ -5,8 +5,8 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture")<div> Hello World </div>{:.profile}
-<div> Hello World </div>
+![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+
 
 ## PROFILE
   - NAME  : DONG YEON KIM
