@@ -6,6 +6,7 @@ main_nav: true
 ---
 
 ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+<div> Hello World </div>
 
 ## PROFILE
   - NAME  : DONG YEON KIM
