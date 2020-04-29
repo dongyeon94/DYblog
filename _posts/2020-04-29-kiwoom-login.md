@@ -107,6 +107,10 @@ QAxWidget("KFOpenAPI.KFOpenAPICtrl.1")
 CommConnect(0) = 로그인 모듈을 실행합니다.
 GetConnectState() = 로그인 상태를 출력합니다. (0 출력시 로그인 성공)
 
+프로그램을 실행하고 로그인 버튼을 눌렀을때 아래와 같은 화면이 뜨면 성공입니다.
+
+![키움](https://user-images.githubusercontent.com/37605781/80595302-781e4f80-8a5f-11ea-8ae0-0493eb6efa9e.jpg)
+(키움 증권은 따로 나옵니다. GUI안에 생긴거 아님!!)
 ---
 <div style="height: 50px;"></div>
 <div style="float: right;">
