@@ -10,7 +10,7 @@ main_nav: true
 
 ## PROFILE
   - NAME  : DONG YEON KIM
-  - bIRTH : 1994.10.16
+  - BIRTH : 1994.10.16
   - EMAIL : dongyeon94@naver.com
 
 ## SKILL
