@@ -14,7 +14,7 @@ main_nav: true
         <button class="back-joon" onclick="indexMove('backjoon')"> Backjoon</button>
         <button class="programmers" onclick="indexMove('programmers')"> Programmers</button>
         <button class="Outsourcing" onclick="indexMove('Outsourcing')"> Outsourcing</button>
-        
+        <button class="Daily" onclick="indexMove('Daily')"> Daily</button>
         <div style="height: 10px;"></div>
     </div>
     
