@@ -15,8 +15,8 @@ main_nav: true
         <button class="programmers" onclick="indexMove('programmers')"> Programmers</button>
         <button class="Outsourcing" onclick="indexMove('Outsourcing')"> Outsourcing</button>
         <button class="Daily" onclick="indexMove('Daily')"> Daily</button>
-        <button class="Daily" onclick="indexMove('C')"> Daily</button>
-        <button class="Daily" onclick="indexMove('FG')"> Daily</button>
+        <button class="Daily" onclick="indexMove('C')"> C</button>
+        <button class="Daily" onclick="indexMove('FG')"> FG</button>
         <div style="height: 10px;"></div>
     </div>
     
