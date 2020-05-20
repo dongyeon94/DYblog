@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "C/C++ Stack Que"
-date:   2020-05-14
+date:   2020-05-20
 author: DY
 comments: true
 categories: C
