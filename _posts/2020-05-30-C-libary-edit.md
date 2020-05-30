@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "library를 만들어보자"
+title:  "library에러 해결!"
 date:   2020-05-28
 author: DY
 comments: true
