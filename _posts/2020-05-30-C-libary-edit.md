@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title:  "library에러 해결!"
-date:   2020-05-28
+date:   2020-05-30
 author: DY
 comments: true
 categories: C
