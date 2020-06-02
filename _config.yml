@@ -22,7 +22,7 @@ description: >
 baseurl: / # the subpath of your site, e.g. /blog/
 url: https://dongyeon94.github.io/ # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
-logo: "/assets/dy.png"
+logo: "/assets/dy-W.png"
 
 # Build settings
 markdown: kramdown
