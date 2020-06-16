@@ -19,3 +19,9 @@ main_nav: true
   - Spring, Andriod
   - HTML5, CSS3, Javascript, Jquery
 
+## CAREER
+| Company 	| Position   	| Date |
+|---------	|------------	|----- |
+| Naver   	| Part Timer 	| 19.09 ~ 19.12 | 
+| Qucell    | Assistant Research Engineer / Junior Engineer| 20.06 ~ |  
+
