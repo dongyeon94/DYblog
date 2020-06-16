@@ -26,3 +26,8 @@ main_nav: true
 | Naver   	| Part Timer 	| 19.09 ~ 19.12 | 
 | Qucell    | Assistant Research Engineer / Junior Engineer| 20.06 ~ |  
 
+| company 	| position   	|   	|   	|   	|
+|---------	|------------	|---	|---	|---	|
+| Naver   	| Part Timer 	|   	|   	|   	|
+|         	|            	|   	|   	|   	|
+|         	|            	|   	|   	|   	|
