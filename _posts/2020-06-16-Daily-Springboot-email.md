@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "Springboot"
+title:  "Springboot Email Sender"
 date:   2020-06-16
 author: DY
 comments: true
