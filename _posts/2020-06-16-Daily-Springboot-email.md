@@ -28,8 +28,9 @@ Springboot에서 email을 전송하는 방법입니다. 먼저 lib을 다운받�
 
 그리고 나서 java code를 작성하게 됩니다.
 
-저는 Naver에 pop 서버를 사용했습니다. 설정 방법은 아래 링크에서 확인할 수 있습니다.  
-- https://help.naver.com/support/contents/contents.help?serviceNo=2342&categoryNo=2281
+저는 Naver에 pop 서버를 사용했습니다. 설정 방법은 아래 링크에서 확인할 수 있습니다.
+* [https://help.naver.com/support/contents/contents.help?serviceNo=2342&categoryNo=2281](https://help.naver.com/support/contents/contents.help?serviceNo=2342&categoryNo=2281)  
+
 
 pop 설정을 마치고 아래 코드를 작성해서 보내면 메일의 테스트는 완료됩니다.
 
