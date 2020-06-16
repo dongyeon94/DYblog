@@ -20,6 +20,7 @@ main_nav: true
   - HTML5, CSS3, Javascript, Jquery
 
 ## CAREER
+
 | Company 	| Position   	| Date |
 |---------	|------------	|----- |
 | Naver   	| Part Timer 	| 19.09 ~ 19.12 | 
