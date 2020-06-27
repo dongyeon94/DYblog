@@ -17,7 +17,7 @@ main_nav: true
         <button class="Daily" onclick="indexMove('Daily')"> Daily</button>
         <button class="Daily" onclick="indexMove('C')"> C</button>
         <button class="Daily" onclick="indexMove('FG')"> FG</button>
-        <button class="Daily" onclick="indexMove('Django')"> FG</button>
+        <button class="Daily" onclick="indexMove('Django')"> Django</button>
         <div style="height: 10px;"></div>
     </div>
     
