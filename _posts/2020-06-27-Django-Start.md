@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  "Django도 해보자"
+title:  "Start Django Web"
 date:   2020-06-27
 author: DY
 comments: true
